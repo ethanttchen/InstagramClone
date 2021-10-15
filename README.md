@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![InstagramClone](https://user-images.githubusercontent.com/66335530/137557078-7088a36e-0305-481f-9610-f5e0e3b525ae.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
